@@ -1,1 +1,1 @@
-This application is a simple practice site which uses the Flux Design with React.js, ES6, Express.js, and other npm packages
+This application is a simple practice site which uses the Flux Design with React.js, ES6, Express.js, and other npm packages. 
