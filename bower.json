@@ -1,0 +1,23 @@
+{
+  "name": "schoolfinder",
+  "description": "test",
+  "main": "tets",
+  "authors": [
+    "sagar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "tets"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
